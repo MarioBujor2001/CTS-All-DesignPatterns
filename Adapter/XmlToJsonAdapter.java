@@ -1,4 +1,4 @@
-package adapter;
+package Adapter;
 
 //am fi putut face un adaptor de clase prin: adaptorul va fi derivat din clasa pt care ar fi fost gandit sa
 //fie adapto

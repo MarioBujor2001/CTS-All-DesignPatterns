@@ -1,4 +1,4 @@
-package facade;
+package Facade;
 
 public class Circle {
     public void draw(){

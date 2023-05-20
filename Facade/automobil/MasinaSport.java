@@ -1,4 +1,4 @@
-package facade.automobil;
+package Facade.automobil;
 
 public class MasinaSport extends Automobil{
     public MasinaSport(String desc){

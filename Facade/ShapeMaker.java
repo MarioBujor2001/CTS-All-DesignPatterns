@@ -1,4 +1,4 @@
-package facade;
+package Facade;
 
 public class ShapeMaker {
     private Circle circle;

@@ -1,4 +1,4 @@
-package facade.automobil;
+package Facade.automobil;
 
 public abstract class Automobil {
     protected String descriere;

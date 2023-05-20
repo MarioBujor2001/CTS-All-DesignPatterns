@@ -1,4 +1,4 @@
-package facade;
+package Facade;
 //facade ascunderea complexitatii arborelui de clase si functionalitati
 //si punem la dispozitie metode care in spate interactioneaza cu logica mai complexa
 public class Main {

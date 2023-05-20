@@ -1,4 +1,4 @@
-package facade.automobil;
+package Facade.automobil;
 
 public class MasinaFamilie extends Automobil{
     public MasinaFamilie(String desc){
